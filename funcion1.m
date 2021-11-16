@@ -26,7 +26,7 @@ plot (x, gx);
 
 grid on;
 %Titulo (T)
-title('FUNCION DEL PROBLEMA #1');
+title('FUNCION DEL PROBLEMA #1 grafica parabolica de una funcion cuadratica');
 %Etiqueta para x (E.x)
 xlabel('(DOMINIO)VALOR DE X ');
 %Etiqueta para y (E.y)
